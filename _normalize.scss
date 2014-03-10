@@ -1,11 +1,10 @@
-/* ==========================================================================
-   Normalize.scss settings
-   ========================================================================== */
-/**
- * Includes legacy browser support IE6/7
- *
- * Set to false if you want to drop support for IE6 and IE7
- */
+// ==========================================================================
+// Normalize.scss settings
+// ==========================================================================
+//
+// Includes legacy browser support IE6/7
+//
+// Set to false if you want to drop support for IE6 and IE7
 
 $legacy_browser_support: false !default;
 
